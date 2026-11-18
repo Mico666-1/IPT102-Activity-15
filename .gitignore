@@ -1,0 +1,8 @@
+# Environment variables & secrets
+.env
+**/ .env
+.env.local
+
+# Dependencies
+node_modules/
+**/node_modules/
